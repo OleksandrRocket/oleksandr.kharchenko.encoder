@@ -2,3 +2,5 @@
 target
 *.iml
 out
+META-INF
+texts_for_enkrypt
