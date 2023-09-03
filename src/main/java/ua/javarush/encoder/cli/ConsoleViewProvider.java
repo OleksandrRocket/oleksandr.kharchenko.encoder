@@ -17,5 +17,3 @@ public class ConsoleViewProvider {
         System.out.println(line);
     }
 }
-
-
